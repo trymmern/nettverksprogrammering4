@@ -1,0 +1,11 @@
+D:\programs\CSharpProjects\Oving4Udp\bin\Debug\netcoreapp2.2\Oving4Udp.deps.json
+D:\programs\CSharpProjects\Oving4Udp\bin\Debug\netcoreapp2.2\Oving4Udp.runtimeconfig.json
+D:\programs\CSharpProjects\Oving4Udp\bin\Debug\netcoreapp2.2\Oving4Udp.runtimeconfig.dev.json
+D:\programs\CSharpProjects\Oving4Udp\bin\Debug\netcoreapp2.2\Oving4Udp.dll
+D:\programs\CSharpProjects\Oving4Udp\bin\Debug\netcoreapp2.2\Oving4Udp.pdb
+D:\programs\CSharpProjects\Oving4Udp\obj\Debug\netcoreapp2.2\Oving4Udp.csprojAssemblyReference.cache
+D:\programs\CSharpProjects\Oving4Udp\obj\Debug\netcoreapp2.2\Oving4Udp.csproj.CoreCompileInputs.cache
+D:\programs\CSharpProjects\Oving4Udp\obj\Debug\netcoreapp2.2\Oving4Udp.AssemblyInfoInputs.cache
+D:\programs\CSharpProjects\Oving4Udp\obj\Debug\netcoreapp2.2\Oving4Udp.AssemblyInfo.cs
+D:\programs\CSharpProjects\Oving4Udp\obj\Debug\netcoreapp2.2\Oving4Udp.dll
+D:\programs\CSharpProjects\Oving4Udp\obj\Debug\netcoreapp2.2\Oving4Udp.pdb

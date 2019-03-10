@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Programs\\CSharpProjects\\Oving4Udp\\Oving4Udp.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
