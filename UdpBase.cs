@@ -11,7 +11,7 @@ namespace Oving4Udp
         public string Message;
     }
 
-    public abstract class UdpBase 
+    public class UdpBase 
     {
         protected UdpClient Client;
 

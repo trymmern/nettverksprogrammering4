@@ -8,7 +8,7 @@ namespace Oving4Udp
     {
         private IPEndPoint _listenOn;
 
-        public UdpListener() : this(new IPEndPoint(IPAddress.Any, 321123)) { }
+        public UdpListener() : this(new IPEndPoint(IPAddress.Any, 8080)) { }
 
         public UdpListener(IPEndPoint endpoint) 
         {

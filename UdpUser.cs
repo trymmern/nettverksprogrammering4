@@ -1,10 +1,11 @@
+using System;
 using System.Text;
 
 namespace Oving4Udp
 {
     public class UdpUser : UdpBase
     {
-        private UdpUser() {}
+        public UdpUser() {}
 
         public static UdpUser ConnectTo(string hostname, int port) 
         {
@@ -15,6 +16,7 @@ namespace Oving4Udp
 
         public void Send(string message) 
         {
+            Console.WriteLine($"Sending {message} from client...\n");
             var datagram = Encoding.UTF8.GetBytes(message);
             Client.Send(datagram, datagram.Length);
         }
